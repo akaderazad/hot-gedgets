@@ -1,0 +1,56 @@
+.container-bg{
+    background-image: url(images/Best\ Products.png);
+    background-size: 75px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.carousel-indicators .active{
+    background-color: #ffa500;
+    }
+    .carousel-indicators li{
+    background-color:black!important;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    }
+
+.buy-now-button{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.see-all-text{
+    color: #FF9D00;
+}
+.card-body, .card-text{
+    text-align: center;
+}
+.card{
+    margin-right: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.card-border{
+    border-radius: 10px;
+}
+.categories{
+    text-align: center;
+}
+}
+.cate-bg{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 0 25px;
+}
+.cate-go{
+   margin: 25px 0;
+}
+.order img{
+    width: 100%;
+}
